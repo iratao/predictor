@@ -1,0 +1,927 @@
+{   
+  "contenttypes": [
+    {
+      "id": "99dcb521-3a4d-43da-8866-22ae731f1b4c",
+      "name": "plants/plants - on top of others"
+    },
+    {
+      "id": "502cff71-9c64-4f01-9486-0fef40203d29",
+      "name": "build element/railing"
+    },
+    {
+      "id": "b3c8f8e0-1a02-4de1-bdc5-5066c4b47ad9",
+      "name": "door/folding door 1-4"
+    },
+    {
+      "id": "4872ab68-27b3-41b0-bc9e-aa6a8d975d66",
+      "name": "recreation/musical instrument"
+    },
+    {
+      "id": "38b593bf-82e0-44eb-80aa-5e8ffa8e5746",
+      "name": "storage unit/floor-based storage unit"
+    },
+    {
+      "id": "6760ef27-0ca6-4bd9-aea1-9b2391ef3b8a",
+      "name": "outdoor furniture/outdoor furniture - wall-attached"
+    },
+    {
+      "id": "38af6876-46b3-4c35-8147-94518d83b0f8",
+      "name": "water/cold water"
+    },
+    {
+      "id": "34c6f2fb-8126-4dee-b431-8ea3c3f060f1",
+      "name": "electric/socket strong - five-hole socket (with switch )"
+    },
+    {
+      "id": "4630ae9d-0377-4188-99f1-7987c49d255d",
+      "name": "build element/kitchen ceiling"
+    },
+    {
+      "id": "b1083906-d09e-42f6-bb28-3808c77a1cd6",
+      "name": "lighting/desk lamp"
+    },
+    {
+      "id": "cbe7c593-3e4e-433d-9e32-dd59d71238e6",
+      "name": "appliance/ventilation - ceiling-attached"
+    },
+    {
+      "id": "9e55a274-bc55-44cb-866b-8ca40031c8e9",
+      "name": "electric/switch - waterproof switch"
+    },
+    {
+      "id": "3c08b09e-41c2-496e-b525-16a33762d93c",
+      "name": "build element/fireplace"
+    },
+    {
+      "id": "0d11ac10-ed42-4223-9972-79fb4718b37b",
+      "name": "electronics/air-conditioner - wall-attached"
+    },
+    {
+      "id": "f892617c-1d0c-41c9-8713-7617204b6d05",
+      "name": "table/table"
+    },
+    {
+      "id": "ae3e7e81-2aa5-4965-884b-37927e0c203d",
+      "name": "build element/background wall"
+    },
+    {
+      "id": "19b22974-ef87-43d1-8d1f-0bf5d8c80d82",
+      "name": "cabinet/wall-attached cabinet"
+    },
+    {
+      "id": "d27be93b-183e-48b3-91e7-12346d803a0b",
+      "name": "chair/armchair"
+    },
+    {
+      "id": "e0fa07a0-b8f7-467c-9fb3-f0aab9549556",
+      "name": "electric/weak box"
+    },
+    {
+      "id": "8e744177-854b-40bf-ba12-a76d319d39cf",
+      "name": "storage unit/dresser"
+    },
+    {
+      "id": "6380022d-3807-4156-8b80-d8f9b0476d70",
+      "name": "electric/socket weak - tv cable+network"
+    },
+    {
+      "id": "441fc55e-1456-4a59-808c-1a4e92bfaf49",
+      "name": "door/quad sliding door"
+    },
+    {
+      "id": "d9dd7e86-680f-4e4d-b451-0a0983008c80",
+      "name": "chair/bar chair"
+    },
+    {
+      "id": "109b627f-1671-4082-8d33-b0098b4434ba",
+      "name": "door/folding door 2-2"
+    },
+    {
+      "id": "a65d1aa4-3aaf-477f-9ff8-cc305965fc13",
+      "name": "shower/wall-attached shower head"
+    },
+    {
+      "id": "25f716d8-2e09-4c4e-9860-2c027fff2107",
+      "name": "bath/cornered bath"
+    },
+    {
+      "id": "376cb01a-9f55-4b43-abe7-587821187440",
+      "name": "build element/gypsum ceiling"
+    },
+    {
+      "id": "97d8bfab-ae4e-4fd9-bfe3-0c68b6d548f3",
+      "name": "bed/crib"
+    },
+    {
+      "id": "c13946cd-d8bc-405f-824e-89ecb6061680",
+      "name": "sofa/ottoman"
+    },
+    {
+      "id": "e9fc1884-9d9b-4d4d-9fff-f5f436dbbbfc",
+      "name": "electronics/air-conditioner - floor-based"
+    },
+    {
+      "id": "38ebe65f-27b3-46e1-9378-35cce85ee91a",
+      "name": "accessory/clock - wall-attached"
+    },
+    {
+      "id": "a273dec8-88cd-4bbe-9e5f-cbb49833af8a",
+      "name": "electric/socket strong - waterproof socket"
+    },
+    {
+      "id": "990dbcb8-375e-4e8c-a4fd-4c0501595f4f",
+      "name": "build element/skylight"
+    },
+    {
+      "id": "51ad98f0-9f41-4f4a-9a66-c6620d8ee785",
+      "name": "window/floor-based window"
+    },
+    {
+      "id": "ff9d5868-b3f6-437d-9fdc-36c420436990",
+      "name": "appliance/appliance - wall-attached"
+    },
+    {
+      "id": "511a6fc8-62bf-4294-8b29-b540212f297e",
+      "name": "vanity/single vanity - wall-attached"
+    },
+    {
+      "id": "8b7531dd-3e13-455d-8e18-d72be7a51669",
+      "name": "people/people"
+    },
+    {
+      "id": "8c1f1cef-83da-48c2-afde-551b12242683",
+      "name": "lighting/track-mounted spotlight- ceiling-attached"
+    },
+    {
+      "id": "dcf1593d-b6a7-494b-8f4c-a095ba889eb3",
+      "name": "storage unit/ceiling-attached storage unit"
+    },
+    {
+      "id": "53b168c8-4638-4763-a221-ce96773ec090",
+      "name": "mirror/floor-based mirror"
+    },
+    {
+      "id": "0a850014-dfa6-48ef-a34a-2092cc1eccf4",
+      "name": "recreation/floor-based recreation"
+    },
+    {
+      "id": "d5e6da9b-1a7b-4495-893a-204866dc89a2",
+      "name": "table/coffee table"
+    },
+    {
+      "id": "d085a16a-69a9-4ff9-b92f-94d8776464b6",
+      "name": "window/bay window"
+    },
+    {
+      "id": "d329a5e5-0054-4f1f-ac0a-9fe913b98d35",
+      "name": "300 - on top of others"
+    },
+    {
+      "id": "2f82e5a2-21f0-441c-9bb9-0fb0bed34cb4",
+      "name": "media unit/floor-based media unit"
+    },
+    {
+      "id": "d0e9238e-430e-4fdb-bc62-48ab731cc143",
+      "name": "outdoor furniture/playground equipment"
+    },
+    {
+      "id": "4eb022d3-1c84-4799-b10d-8f802afcabae",
+      "name": "bath/freestanding bath"
+    },
+    {
+      "id": "acf9fa3c-1dda-447a-a074-94c83e4e0a35",
+      "name": "appliance/ventilation - wall-attached"
+    },
+    {
+      "id": "2cb8abd7-049b-4df7-ae15-40ace01cb875",
+      "name": "sofa/single seat sofa"
+    },
+    {
+      "id": "29f1a63e-10e3-4da9-84a0-09a065132884",
+      "name": "electric/socket weak - telephone jack+network"
+    },
+    {
+      "id": "7974f93f-9b54-48a6-a1a9-8016ff9698e9",
+      "name": "electric/switch - triple switch"
+    },
+    {
+      "id": "191a1500-e291-4315-baac-1eafcae342d8",
+      "name": "table/dinning set"
+    },
+    {
+      "id": "cfead38e-b2f2-4285-80fc-ca59d4e0f358",
+      "name": "electric/socket strong - five-hole socket"
+    },
+    {
+      "id": "3be059f7-1cf2-4120-b371-603b1d620d9e",
+      "name": "build element/wall opening"
+    },
+    {
+      "id": "67c5e776-d36a-4eb4-9595-206b988d370c",
+      "name": "electric/socket strong - three-hole socket (with switch )"
+    },
+    {
+      "id": "3ccca733-4b49-4455-b296-53aed20dd79d",
+      "name": "toilet/floor-based toilet"
+    },
+    {
+      "id": "c08414b8-f183-4d55-93cd-f2a6e59034cc",
+      "name": "accessory/accessory - on top of others"
+    },
+    {
+      "id": "30e5491e-1ab2-41c9-9244-c0a4ea2da705",
+      "name": "accessory/accessory - wall-attached"
+    },
+    {
+      "id": "434871ea-2869-4622-9b2f-80a9fd1ed47f",
+      "name": "bed/single bed"
+    },
+    {
+      "id": "9c89fdaf-d246-49c3-8635-9b567745a4c5",
+      "name": "electronics/computer"
+    },
+    {
+      "id": "f2016665-bd38-474a-99fa-32830b61c54c",
+      "name": "appliance/water heater - electrical"
+    },
+    {
+      "id": "f68941f6-98e0-4421-9292-88119c8ca2e1",
+      "name": "build element/column"
+    },
+    {
+      "id": "e7673848-d38b-49d3-8acc-bfaf5d706af4",
+      "name": "electronics/TV - on top of others"
+    },
+    {
+      "id": "1fdd46e7-6b59-44c0-b65f-dc3141fcb160",
+      "name": "electric/socket weak - telephone jack"
+    },
+    {
+      "id": "7428f3fa-9a50-4146-ad14-f31a9a033f32",
+      "name": "electric/socket strong - multi-function socket"
+    },
+    {
+      "id": "a94d0647-4cdb-4fe3-8eb5-8782eaa09701",
+      "name": "accessory/clock - floor-based"
+    },
+    {
+      "id": "60b5e19b-0c28-4056-9769-82e32c14dc61",
+      "name": "table/night table"
+    },
+    {
+      "id": "e85e88df-f0ed-448a-8638-b5b17a93c202",
+      "name": "curtain/curtain"
+    },
+    {
+      "id": "55cf7a43-cd64-4e95-abde-5bf5fbd8f0bc",
+      "name": "lighting/single spotlight - ceiling-attached"
+    },
+    {
+      "id": "1fdd6c76-d3d1-4ef8-bbeb-25a9b9d93078",
+      "name": "500 - attach to ceiling"
+    },
+    {
+      "id": "f4fb00b0-604e-45f4-9d38-c5804fd4ac18",
+      "name": "appliance/refrigerator"
+    },
+    {
+      "id": "e811c6c2-49f5-42c2-ad01-672e5860df08",
+      "name": "sink/drop-in double kitchen sink"
+    },
+    {
+      "id": "bb368493-71bb-4041-b547-ca3d8ec4fa1d",
+      "name": "rug/rug"
+    },
+    {
+      "id": "4e3b2ec3-8d99-4b67-b1be-3cc1678ae8f0",
+      "name": "recreation/toy - floor-based"
+    },
+    {
+      "id": "ae0097d4-42cb-4cbd-b257-51877f5f8c3e",
+      "name": "door/double swing door - asymmetrical"
+    },
+    {
+      "id": "d8eb0aeb-6f17-42ac-94dc-73f643b37969",
+      "name": "table/side table"
+    },
+    {
+      "id": "9211867e-0da9-4b79-85f1-4b86f5b41b0a",
+      "name": "recreation/toy - on top of others"
+    },
+    {
+      "id": "6022708a-9404-499f-be64-12d48d46d989",
+      "name": "table/console table"
+    },
+    {
+      "id": "0cc2ca71-047f-4f88-8e07-9fcc554173fe",
+      "name": "cabinet/floor-based cabinet"
+    },
+    {
+      "id": "d7d434ae-dae9-4a1c-8a90-041a026fe64e",
+      "name": "door/double sliding door"
+    },
+    {
+      "id": "150b273a-ecbd-4281-a3d4-cbb265564408",
+      "name": "door/double swing door - symmetrical"
+    },
+    {
+      "id": "e0528720-6883-4e55-9f01-3fcfb431c9b0",
+      "name": "storage unit/armoire"
+    },
+    {
+      "id": "4ecec8ce-d7fb-4537-9492-fe7ed3b7d4ed",
+      "name": "water/hot water"
+    },
+    {
+      "id": "87e71faa-4ad4-4b4b-97e9-4f45f5688c09",
+      "name": "mirror/wall-attached mirror"
+    },
+    {
+      "id": "9f71be71-3d0c-4729-9d4a-6c86d99895d3",
+      "name": "electric/switch - yuba switch"
+    },
+    {
+      "id": "e0f092dc-fa98-4b30-8fef-665c8e6173d1",
+      "name": "basin/double basin - on top of others"
+    },
+    {
+      "id": "feab73af-2bee-4cd5-841e-e00925a96ed5",
+      "name": "basin/floor-based double basin with cabinet"
+    },
+    {
+      "id": "d4d002b4-373d-4b91-b053-603f5abd3214",
+      "name": "appliance/appliance - on top of others"
+    },
+    {
+      "id": "f4bab1b9-ccf3-4761-8dac-7aab23ec775f",
+      "name": "storage unit/wall-attached storage unit"
+    },
+    {
+      "id": "0c9e94aa-84d9-4b74-bfc7-379e6ecad262",
+      "name": "electric/switch - single switch"
+    },
+    {
+      "id": "fc71fc35-70bf-4edf-85c0-09da9fa22aa2",
+      "name": "accessory/accessory - floor-based"
+    },
+    {
+      "id": "9f4e3615-10a6-454f-936e-1b7683dc704e",
+      "name": "accessory/pillow"
+    },
+    {
+      "id": "e1793118-3653-4952-83e5-8f16566ccfcf",
+      "name": "electric/socket weak - tv cable"
+    },
+    {
+      "id": "1b97dd58-86f2-4686-a839-be687c7a1910",
+      "name": "400 - attach to wall"
+    },
+    {
+      "id": "b418d513-9dab-4bfa-ac56-8cfb0eeb490f",
+      "name": "door/folding door 1-3"
+    },
+    {
+      "id": "bf254853-7074-470a-a4d6-a1ee2d2bfddb",
+      "name": "sink/drop-in single kitchen sink"
+    },
+    {
+      "id": "2a7d8c37-31a8-4c46-b7d1-f980681c1c1c",
+      "name": "door/single swing door"
+    },
+    {
+      "id": "90bab447-d988-4d7b-9def-8b0bb130eeef",
+      "name": "build element/beam"
+    },
+    {
+      "id": "f7872280-4f78-4d0e-98d7-0d7aa56a52c8",
+      "name": "accessory/accessory - ceiling-attached"
+    },
+    {
+      "id": "8c53b6e6-5607-4cac-9859-dd2dd89284be",
+      "name": "electric/switch - tandem switch"
+    },
+    {
+      "id": "e8a4d5fa-d2bc-4b47-add5-978b34117567",
+      "name": "electric/socket strong - three-hole socket"
+    },
+    {
+      "id": "15a6dd6c-e369-465a-8b92-aaf7f6a72c1d",
+      "name": "plants/plants - floor-based"
+    },
+    {
+      "id": "db0c527a-835a-41a7-8e86-4d10fa6e29d2",
+      "name": "door/triple sliding door"
+    },
+    {
+      "id": "31dfad1a-9a60-4974-aed8-941969be3daa",
+      "name": "door/folding door 3"
+    },
+    {
+      "id": "5a1337d1-77d4-4e77-beb9-b31fbc315773",
+      "name": "recreation/toy - wall-attached"
+    },
+    {
+      "id": "10e44086-5530-4403-9e3e-901e89360820",
+      "name": "sofa/double seat sofa"
+    },
+    {
+      "id": "3b043a3d-39d9-4162-968d-aa32802111a1",
+      "name": "table/dining table"
+    },
+    {
+      "id": "df9a5db0-76b7-47fd-b640-5206f3fa71fd",
+      "name": "electric/distribution box"
+    },
+    {
+      "id": "fe193465-bc26-45c2-acef-dd0e51f61bb7",
+      "name": "recreation/toy - ceiling-attached"
+    },
+    {
+      "id": "b7463c17-4116-4b35-a891-e2f75ff377e3",
+      "name": "appliance/appliance - floor-based"
+    },
+    {
+      "id": "732c603c-8821-4558-9060-7eedafe30c70",
+      "name": "100 - rug"
+    },
+    {
+      "id": "5a9f481d-1e7d-4924-b7ec-040b6c979d41",
+      "name": "door/folding door 4"
+    },
+    {
+      "id": "35ff8196-9f8e-4d09-88d1-1740bcd186c7",
+      "name": "accessory/clock - on top of others"
+    },
+    {
+      "id": "76af6d59-4c6f-4ea7-a735-545570d1d830",
+      "name": "bed/king-size bed"
+    },
+    {
+      "id": "5e6a80f6-82b4-42c7-a8f5-7429f517cb9e",
+      "name": "build element/molding"
+    },
+    {
+      "id": "6edbc15d-2639-4dd4-a8ba-a8738fe59b01",
+      "name": "appliance/appliance - ceiling-attached"
+    },
+    {
+      "id": "066c909b-3760-4313-9228-8f9a3ce44ffb",
+      "name": "storage unit/stackable storage unit"
+    },
+    {
+      "id": "808b6e80-6ca9-43c6-97cb-91822115f505",
+      "name": "lighting/wall lamp"
+    },
+    {
+      "id": "76111509-8026-4569-afa1-7a39e07ce217",
+      "name": "electronics/TV - wall-attached"
+    },
+    {
+      "id": "a58b02e3-ca15-4a7a-8f68-4b5d6afc1d56",
+      "name": "attachment/taps"
+    },
+    {
+      "id": "d49990fc-bad3-4a39-9567-2d8c8e7ade66",
+      "name": "water/cold hot water"
+    },
+    {
+      "id": "7bfe32b5-b4ca-4b82-a5ee-eadcff9d6132",
+      "name": "basin/single basin - on top of others"
+    },
+    {
+      "id": "a300019d-1b88-4f14-9139-5f5da67d2ad7",
+      "name": "recreation/wall-attached recreation"
+    },
+    {
+      "id": "42022f15-9b2b-49f6-95bc-857b4524937c",
+      "name": "cabinet/hutch&buffet"
+    },
+    {
+      "id": "a23a28d2-0efb-4a03-8b03-898a280c8b5e",
+      "name": "cabinet/floor-based kitchen cabinet"
+    },
+    {
+      "id": "ed2b43f3-0a57-4c84-9425-7c9787487381",
+      "name": "window/window"
+    },
+    {
+      "id": "0aa186ed-044b-4b4a-b945-d867268f0c4d",
+      "name": "bath/drop-in bath"
+    },
+    {
+      "id": "ca2e2409-748a-4f91-aac9-b40b443c13d7",
+      "name": "attachment/countertop"
+    },
+    {
+      "id": "a7ed4bbe-d6e8-41b7-b4ee-589b8cdaf9db",
+      "name": "appliance/water heater - gas"
+    },
+    {
+      "id": "44cd0e03-228b-446c-aa53-f877b17df993",
+      "name": "shower/wall-attached shower room"
+    },
+    {
+      "id": "6932d0a6-9881-490b-9667-8c5bafaa1f28",
+      "name": "build element/platform"
+    },
+    {
+      "id": "72eb4a56-43c3-486e-b05b-361604371d30",
+      "name": "bed/matress"
+    },
+    {
+      "id": "8a49389f-7fa9-4452-8b6a-4c9fda9464b4",
+      "name": "chair/chair"
+    },
+    {
+      "id": "312802dc-1666-4bca-ab84-5cf5158a5066",
+      "name": "toilet/wall-attached toilet"
+    },
+    {
+      "id": "683b3dce-6fb3-4d67-9d4f-881b3617cd41",
+      "name": "outdoor furniture/outdoor furniture - floor-based"
+    },
+    {
+      "id": "7425827b-0b57-4f13-a12b-3c1372c2e394",
+      "name": "bed/queen-size bed"
+    },
+    {
+      "id": "1aaef302-ecaf-4831-b8d0-f48432de7a55",
+      "name": "media unit/wall-attached media unit"
+    },
+    {
+      "id": "4eb5d89d-c341-4d90-946b-5e238198c2e1",
+      "name": "appliance/range & cooktop"
+    },
+    {
+      "id": "65ff32f4-32ea-4922-ba26-a0913f5159b1",
+      "name": "art/art - wall-attached"
+    },
+    {
+      "id": "bfe913e2-3dc2-4b9a-b8f5-b0dbe07e8f12",
+      "name": "lighting/pendant light"
+    },
+    {
+      "id": "64f06ac5-132b-48a8-8547-ea247168d57e",
+      "name": "door/folding door 3-3"
+    },
+    {
+      "id": "456a3cf2-29b9-4a8f-8fcd-12874a362c51",
+      "name": "electric/switch - quadruple switch"
+    },
+    {
+      "id": "45512b21-5a55-455e-9677-d081e9777559",
+      "name": "shower/ceiling-attached shower head"
+    },
+    {
+      "id": "83f19d9a-a9ad-4c7d-91bc-2fd4b5039e70",
+      "name": "electric/socket strong - air-conditioning outlet"
+    },
+    {
+      "id": "db99befd-071d-4c4c-aa6a-4068360b700a",
+      "name": "lighting/floor lamp"
+    },
+    {
+      "id": "d13558cf-f555-43dd-b901-3698e6064bbc",
+      "name": "basin/floor-based single basin with cabinet"
+    },
+    {
+      "id": "4b3a6e8a-c098-4936-ab64-02b8f63fe2e5",
+      "name": "build element/wall upholstery"
+    },
+    {
+      "id": "13a74d85-9fdb-470c-892b-155e413f8b55",
+      "name": "shower/floor based shower room"
+    },
+    {
+      "id": "a31bf19a-023c-4313-8946-dba3b1a5963b",
+      "name": "200 - on the floor"
+    },
+    {
+      "id": "e0040c9b-0faa-4fd4-8616-54c6d3fde061",
+      "name": "material/wallpaper"
+    },
+    {
+      "id": "6ea2fba8-b988-40c1-a8e6-086d78fd3542",
+      "name": "material/tiles"
+    },
+    {
+      "id": "5a1a8180-5ab0-4312-8335-4dde69731dd2",
+      "name": "appliance/washer"
+    },
+    {
+      "id": "cce8e6cb-aa58-4c38-aa03-4f8ff374e59c",
+      "name": "build element/baseboard"
+    },
+    {
+      "id": "fc5e0c6b-62a5-4951-a470-c7ac859101e6",
+      "name": "material/others"
+    },
+    {
+      "id": "073d5900-4854-4124-91a8-d9cd78f8e4b1",
+      "name": "material/parquet"
+    },
+    {
+      "id": "74112bbf-6a31-4fe0-9a23-f53757bf69cb",
+      "name": "material/mosaic - ceramic"
+    },
+    {
+      "id": "ddbc480f-6761-446f-a396-3937a8baa34f",
+      "name": "customized content/customized tiles"
+    },
+    {
+      "id": "956ffc66-6baf-42c7-a8f7-b41b602ded48",
+      "name": "material/wood"
+    },
+    {
+      "id": "4c18eb9e-ca67-402b-a8e4-71a107e308af",
+      "name": "sofa/right corner sofa"
+    },
+    {
+      "id": "efe0823a-ec00-43c3-ab5e-2f574d879050",
+      "name": "material/flooring - hardwood"
+    },
+    {
+      "id": "8669e320-d7fa-4174-ab2d-ce192f717a11",
+      "name": "material/paint"
+    },
+    {
+      "id": "0cfe6675-6d36-417e-b2e4-19599d90985b",
+      "name": "material/marble tiles"
+    },
+    {
+      "id": "94654764-726a-4660-93a2-9caad262f997",
+      "name": "build element/cornice"
+    },
+    {
+      "id": "629c9e5a-dd97-4f3f-899b-a6fb70f3bab9",
+      "name": "build element/door window pocket"
+    },
+    {
+      "id": "427cdb7d-ee2b-4812-af89-2711f2b6771d",
+      "name": "build element/floor drain"
+    },
+    {
+      "id": "9b63bb2b-39bf-4946-90f3-2bbf20a7bde3",
+      "name": "lighting/downlight"
+    },
+    {
+      "id": "4e16c24e-08b8-46a6-ae0f-cb62324b1ada",
+      "name": "material/flooring - softwood"
+    },
+    {
+      "id": "f6a7d6e5-6b6e-41d6-a56e-54b02c37cbe1",
+      "name": "material/mosaic - glass"
+    },
+    {
+      "id": "3bf979d4-b5b6-4014-8752-2c6d7993a2f7",
+      "name": "material/antique tiles"
+    },
+    {
+      "id": "1db9ca8f-9de9-4d6c-8764-019d3f9c4043",
+      "name": "material/curtain cloth"
+    },
+    {
+      "id": "b3fab16c-e604-42f2-83b7-2f02641439ab",
+      "name": "material/curtain screen cloth"
+    },
+    {
+      "id": "40ac3a24-5385-4d1d-a378-2ece9b5b0cc9",
+      "name": "material/curtain rail"
+    },
+    {
+      "id": "e1c751bf-6d84-4c8a-9117-087e82b4549f",
+      "name": "material/baseboard - marble"
+    },
+    {
+      "id": "3c023c7a-66f6-4849-abf8-0f520f0c9592",
+      "name": "material/baseboard - antique tiles"
+    },
+    {
+      "id": "df451537-0db1-4c1d-9b76-bbe5ffbfedda",
+      "name": "material/baseboard - tiles"
+    },
+    {
+      "id": "fb41f40c-423a-42c3-a8d5-5934b4fb73bb",
+      "name": "material/baseboard - wood"
+    },
+    {
+      "id": "10a49ed5-10a3-459b-b9cf-afdd56db7ea9",
+      "name": "material/door threshold - marble"
+    },
+    {
+      "id": "60cad71e-4ef5-47bd-9980-931d76043c9f",
+      "name": "sofa/left corner sofa"
+    },
+    {
+      "id": "252fc2d9-9a3f-4cc0-9032-56857f33c77f",
+      "name": "customized content/customized material"
+    },
+    {
+      "id": "7eba035d-b57c-4177-a884-ff48cf2f2c6c",
+      "name": "customized content/customized feature wall"
+    },
+    {
+      "id": "0c8609e9-2d8f-4372-a472-d08a315996b4",
+      "name": "customized content/customized ceiling"
+    },
+    {
+      "id": "82c9dc0b-c09f-4eb7-86b1-add8daa5c5ca",
+      "name": "electric/waterproof panel"
+    },
+    {
+      "id": "2262b4a4-602e-4d1e-a11d-ca0fbfd58157",
+      "name": "appliance/bathroom heater"
+    },
+    {
+      "id": "2c3891d7-1cf7-46d6-ad47-0f838854e4be",
+      "name": "appliance/bathroom heater with light"
+    },
+    {
+      "id": "349d5d64-e4b1-42d0-a494-66fd52a3bef0",
+      "name": "accessory/bathroom accessory - ceiling-attached"
+    },
+    {
+      "id": "2329256a-1700-4374-8857-e9bfec48efa1",
+      "name": "accessory/bathroom accessory - floor-based"
+    },
+    {
+      "id": "3f7e0ed1-044f-47e3-a5b6-14a7f7353b20",
+      "name": "accessory/bathroom accessory - on top of others"
+    },
+    {
+      "id": "8d73dde4-22be-47f1-a2aa-007d317f2f1e",
+      "name": "accessory/bathroom accessory - wall-attached"
+    },
+    {
+      "id": "4092b7d0-d3ea-41d8-b6a1-5399dd7c48c7",
+      "name": "material/decorative tiles"
+    },
+    {
+      "id": "58e66af8-9fea-499a-af2e-f931f96fb0ec",
+      "name": "material/waistline tiles"
+    }
+  ],
+  "roomtypes": [
+    {
+      "id": "b915e8fa-6cb6-4a43-8fb5-d5800de4e040",
+      "name": "Bathroom"
+    },
+    {
+      "id": "aa73c2e2-cae0-4b80-8796-08ed9ad24723",
+      "name": "Bedroom"
+    },
+    {
+      "id": "1dc4c03b-f810-4d3a-b17f-811e581e4caa",
+      "name": "DiningRoom"
+    },
+    {
+      "id": "18db84ed-2f7d-4bd1-b44a-23cc8bd266a6",
+      "name": "KidsRoom"
+    },
+    {
+      "id": "b10fb558-02fe-4cb9-8f38-e44cf99d3d55",
+      "name": "Kitchen"
+    },
+    {
+      "id": "bf8edf4c-0f74-43a2-b4a6-408e1ffade77",
+      "name": "LivingRoom"
+    },
+    {
+      "id": "c0d7bea4-196b-4a03-af32-118d5e092e67",
+      "name": "Office"
+    },
+    {
+      "id": "7366a9a7-f76e-4f65-9090-08fe72da3596",
+      "name": "OtherRoom"
+    },
+    {
+      "id": "f1b83767-f157-4bf5-b591-cb50969f946c",
+      "name": "Outdoors"
+    },
+    {
+      "id": "71a9ee9f-da27-4dd3-82ff-79a52823a334",
+      "name": "PublicExterior"
+    },
+    {
+      "id": "b3bce703-6382-48b2-9ce6-acaad3514edf",
+      "name": "PublicInterior"
+    },
+    {
+      "id": "2ff1b287-2d7d-4c90-a63a-f5193733b466",
+      "name": "ResidentialExterior"
+    },
+    {
+      "id": "8dc44aa2-932a-44e5-899b-73f250b9c1fc",
+      "name": "EntranceHallway"
+    },
+    {
+      "id": "e7688021-6969-45b8-96e4-439e8ac12fae",
+      "name": "ProductShowcase"
+    },
+    {
+      "id": "34d843eb-7135-478d-8e71-e38b4db1e997",
+      "name": "FloorPlan"
+    },
+    {
+      "id": "25fd29b2-7a2e-41aa-b4c6-c40bdb105ab5",
+      "name": "Studio"
+    },
+    {
+      "id": "c53a90c8-3d06-43d5-b33f-aa427fdf6b3f",
+      "name": "Basement"
+    },
+    {
+      "id": "c5d20044-0596-44d9-aa85-d0f10f55bdb7",
+      "name": "HomeCinema"
+    },
+    {
+      "id": "1accf2f0-e29b-431b-b9f8-ea7dddc47ede",
+      "name": "Library"
+    },
+    {
+      "id": "12f6aca2-d7bf-48c8-b425-ad794ce39a82",
+      "name": "Den"
+    },
+    {
+      "id": "c1793395-3e12-4f00-8734-5b3aa3843f3b",
+      "name": "Sketch"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "LivingDiningRoom"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "Hallway"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "Balcony"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "MasterBedroom"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "SecondBedroom"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "ElderlyRoom"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "Lounge"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "Auditorium"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "NannyRoom"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "LaundryRoom"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "StorageRoom"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "CloakRoom"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "MasterBathroom"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "SecondBathroom"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "Stairwell"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "Aisle"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "Corridor"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "PorchBalcony"
+    },
+    {
+      "id": "fb1a1c54-f1ba-4b06-a177-85a619efddc0",
+      "name": "none"
+    }
+
+  ]
+}

@@ -1,0 +1,2 @@
+model_checkpoint_path: "roomtype-softmax"
+all_model_checkpoint_paths: "roomtype-softmax"
