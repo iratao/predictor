@@ -1,5 +1,6 @@
 # Predictor
 A room type predictor using tensorflow. Currently we predict based on the content type of each content exists in the room.
+![alt tag](https://github.com/iratao/predictor/blob/master/screencast.gif)
 
 ### Setup & Run - Live Demo
 To run the live demo, you need to execute the following command.
